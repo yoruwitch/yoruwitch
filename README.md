@@ -3,8 +3,6 @@
 <h3 align="center">A passionate frontend and (some day) fullstack developer</h3>
 
 
-<p align="center"> <a href="https://twitter.com/@yoru_witch" target="blank"><img src="https://img.shields.io/twitter/follow/@yoru_witch?logo=twitter&style=for-the-badge" alt="@yoru_witch" /></a> </p>
-
 - 🌱 I’m currently learning **frontend in general and japanese**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yoruwitch](https://github.com/yoruwitch)
@@ -29,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yoruwitch&" alt="yoruwitch" /></p>
 
-Support 🙏
+
