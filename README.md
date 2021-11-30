@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F72424&center=true&vCenter=true&lines=Hey%2C+I'm+Evelyn!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%F1F7B40&center=true&vCenter=true&lines=Hey%2C+I'm+Evelyn!" alt="Typing SVG">
 </div>
 
 <h3 align="center">A frontend and (someday) fullstack developer</h3>
 <br>
 
-- 🌱 I’m currently learning **frontend in general and japanese**
+- 🌱 I’m currently learning **frontend in general and japanese.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yoruwitch](https://github.com/yoruwitch)
 
-- 📫 How to reach me **yoru.witch4@gmail.com**
+- 📫 How to reach me: **yoru.witch4@gmail.com**
 
 - ⚡ Fun fact: **I'm super nerdy. For everything I like.**
 
