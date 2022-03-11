@@ -2,16 +2,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%F1F7B40&center=true&vCenter=true&lines=Hey%2C+I'm+Evelyn!" alt="Typing SVG">
 </div>
 
-<h3 align="center">A frontend and (someday) fullstack developer</h3>
+<h3 align="center">A student fullstack developer</h3>
 <br>
 
-- 🌱 I’m currently learning **frontend in general and japanese.**
+- 🌱 I’m currently learning **Flutter and japanese.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yoruwitch](https://github.com/yoruwitch)
 
 - 📫 How to reach me: **yoru.witch4@gmail.com**
 
-- ⚡ Fun fact: **I'm super nerdy. For everything I like.**
+- ⚡ Fun fact: **I'm super nerdy. For everything I like. If you want to be my friend, talk about games, anime or books.**
 
 ## Connect with me:
 <p align="center">
