@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%F1F7B40&center=true&vCenter=true&lines=Hey%2C+I'm+Evelyn!" alt="Typing SVG">
 </div>
 
-<h3 align="center">A student fullstack developer</h3>
+<h3 align="center">A student (hopefully fullstack) developer</h3>
 <br>
 
 - 🌱 I’m currently learning **Flutter and japanese.**
