@@ -17,7 +17,7 @@
 <p align="center">
 <a href="https://codepen.io/yoruwitch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yoruwitch" height="30" width="40" /></a>
 <a href="https://twitter.com/@yoru_witch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yoru_witch" height="30" width="40" /></a>
-<a href="https://discord.gg/Sakura#5262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sakura#5262" height="30" width="40" /></a>
+<a href="https://discord.gg/JAlter4#5262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sakura#5262" height="30" width="40" /></a>
 </p>
 
 
