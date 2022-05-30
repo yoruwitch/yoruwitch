@@ -5,7 +5,7 @@
 <h3 align="center">A Software Engineer Student</h3>
 <br>
 
-- 🌱 I’m currently learning **Front-end in a bootcamp.**
+- 🌱 I’m currently learning **Front-end and Kotlin in some bootcamps.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yoruwitch](https://github.com/yoruwitch)
 
