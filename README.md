@@ -77,8 +77,8 @@
 
 <p align="center">
   
-  <a href="https://github.com/isa56" alt="Git Graph">
-    <img height="250em" width="auto" align="center" src="https://activity-graph.herokuapp.com/graph?username=isa56&theme=dracula" />
+  <a href="https://github.com/yoruwitch" alt="Git Graph">
+    <img height="250em" width="auto" align="center" src="https://activity-graph.herokuapp.com/graph?username=yoruwitch&theme=dracula" />
   </a>
 
 </p>
