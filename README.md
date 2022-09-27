@@ -5,7 +5,7 @@
 <h3 align="center">A Software Engineer Student</h3>
 <br>
 
-- 🌱 I’m currently learning **Flutter** and **PHP**.
+- 🌱 I’m currently learning **PHP**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/yoruwitch](https://github.com/yoruwitch)
 
