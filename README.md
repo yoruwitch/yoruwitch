@@ -5,7 +5,7 @@
 <h3 align="center">A Software Engineer Student</h3>
 <br>
 
-- 🌱 I’m currently learning **Front-end** with *DevQuest*.
+- 🌱 I’m currently learning **JavaScript** with *FCC(Free Code Camp)*.
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/yoruwitch?tab=repositories)
 
