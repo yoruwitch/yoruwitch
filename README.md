@@ -44,12 +44,7 @@
   <a href="mailto:evelyn.fernandes4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/evelyn-fernandes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-
 ---
-
-### 🐍 **Snake Game Animation**
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yoruwitch/yoruwitch/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </div>
 
 
