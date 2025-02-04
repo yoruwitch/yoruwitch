@@ -5,7 +5,7 @@
 <h3 align="center">A Software Engineer Student</h3>
 <br>
 
-- 🌱 I’m currently learning **Front-end** with so many things, but mostly **Alura** and **DevQuest**.
+- 🌱 I’m currently learning **Back-end** with Node.Js, studying with **Alura** .
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/yoruwitch?tab=repositories)
 
