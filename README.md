@@ -5,7 +5,7 @@
 <h3 align="center">A Software Engineer Student</h3>
 <br>
 
-- 🌱 I’m currently learning **Back-end** with Node.js, studying with **Alura**.
+- 🌱 I’m currently learning **Full-stack** with Node.js and React.
 
 - 👨‍💻 All of my projects are available [here](https://github.com/yoruwitch?tab=repositories).
 
